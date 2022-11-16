@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=React-Pizza)](https://github.com/NicolasReboule/React-Pizza) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=RustGame)](https://github.com/NicolasReboule/RustGame)
 
 </div>
 </details>
