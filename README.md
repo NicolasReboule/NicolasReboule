@@ -91,12 +91,13 @@
 
 <div align="center">
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f5f906a3-b625-41a0-947a-0008505fcba1/7b86dd93-ea13-4ae5-8391-8ff3ddaf3544.png" /></a>
+<img src="https://wakatime.com/share/@f5f906a3-b625-41a0-947a-0008505fcba1/0ec63dc3-9f26-42e0-98b9-7cafe9252654.svg" /></a>
 
 <br>
 <br>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f5f906a3-b625-41a0-947a-0008505fcba1/c181f3a2-cfca-4054-9fb7-5cbe2da011e9.png" /></a>
+<img src="https://wakatime.com/share/@f5f906a3-b625-41a0-947a-0008505fcba1/e4f078b6-9df0-464b-a142-d86930f0b0e2.svg" /></a>
+
 </div>
 <br>
 
