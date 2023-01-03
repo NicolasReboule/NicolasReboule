@@ -78,7 +78,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=RustGame)](https://github.com/NicolasReboule/RustGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=Experimentation-RustInvaders)](https://github.com/NicolasReboule/Experimentation-RustInvaders)
 
 </div>
 </details>
