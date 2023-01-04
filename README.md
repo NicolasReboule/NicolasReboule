@@ -112,8 +112,9 @@
 <br>
 
 <div align="center">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasReboule&theme=dark&langs_count=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasReboule&theme=dark)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasReboule&show_icons=true&count_private=true&theme=dark)
