@@ -78,6 +78,10 @@
 
 <div align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=IndieStudio)](https://github.com/NicolasReboule/IndieStudio)
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=Arcade)](https://github.com/NicolasReboule/Arcade)
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=Experimentation-RustInvaders)](https://github.com/NicolasReboule/Experimentation-RustInvaders)
 
 </div>
