@@ -41,15 +41,21 @@
 ---
 
 <details open>
-<summary style="font-weight: bold; font-size: x-large"> :fire: My competences </summary>
+<summary style="font-weight: bold; font-size: x-large"> :fire: My competencies </summary>
 <br>
 
 
 <div align="center">
+ 
+<p  style="font-weight: bold; font-size: large"> :mortar_board: Currently learning </p>
+ 
+![My Skills](https://skillicons.dev/icons?i=unity,unreal,rust)
+<br>
+<br>
 
 <p  style="font-weight: bold; font-size: large"> :video_game: Game Development </p>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,unity,unreal,godot)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,godot)
 <br>
 <br>
 
