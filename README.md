@@ -12,11 +12,12 @@
 
 - :fr: I'm a french student from Reunion Island 
 - :mortar_board: Student in 3rd year at Epitech
+- :snake: Member of Epitech's Cobras to teach others my passion of programming
 - :video_game: Love video games and programming
-
+- :runner: Also love sports especially judo
+ 
 </div>
 </details>
-<br>
 
 ---
 
@@ -36,7 +37,6 @@
     
   </div>
 </details>
-<br>
 
 ---
 
@@ -74,7 +74,6 @@
 </div>
 
 </details>
-<br>
 
 ---
 
@@ -96,6 +95,16 @@
 ---
 
 <details open>
+ <summary> :trophy: Awards and distinctions </summary>
+ <br>
+ 
+  - 🏅 Gameplay award : Volcano Game Jam 2022 [(see on itch.io)](https://reboulenicolas.itch.io/sans-nom-le-chevalier)
+ 
+ </details>
+
+---
+
+<details open>
 <summary style="font-weight: bold; font-size: x-large"> :clock3: In the last 30 days </summary>
 <br>
 
@@ -109,7 +118,7 @@
 <img src="https://wakatime.com/share/@f5f906a3-b625-41a0-947a-0008505fcba1/e4f078b6-9df0-464b-a142-d86930f0b0e2.svg" /></a>
 
 </div>
-<br>
+</details>
 
 ---
 
@@ -130,6 +139,5 @@
 <img style="height:300px" src="https://github-profile-trophy.vercel.app/?username=NicolasReboule&theme=onestar&no-frame=true" alt="NicolasReboule" />
 
 </details>
-<br>
 
 ---
