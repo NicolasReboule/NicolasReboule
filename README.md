@@ -11,7 +11,7 @@
 <div style="font-size: large">
 
 - :fr: I'm a french student from Reunion Island 
-- :mortar_board: 4th year student at Epitech
+- :mortar_board: 5th year student at Epitech
 - :snake: Member of Epitech's Cobras to teach others my passion of programming
 - :video_game: Love video games and programming
 - :runner: Also love sports especially judo
