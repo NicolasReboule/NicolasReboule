@@ -41,7 +41,7 @@
 ---
 
 <details open>
-<summary style="font-weight: bold; font-size: x-large"> :fire: My competencies </summary>
+<summary style="font-weight: bold; font-size: x-large"> :fire: My competences </summary>
 <br>
 
 
