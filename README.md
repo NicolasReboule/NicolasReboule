@@ -134,7 +134,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasReboule&show_icons=true&count_private=true&theme=dark)
 <br>
-![GitHub Streak](https://gh-streaks.alwyn974.re?user=NicolasReboule&theme=dark)
+![GitHub Streak](https://gh-streaks.alwyn974.re?user=nicolasreboule&theme=dark)
 <div>
 
 <img style="height:300px" src="https://github-profile-trophy.vercel.app/?username=NicolasReboule&theme=onestar&no-frame=true" alt="NicolasReboule" />
