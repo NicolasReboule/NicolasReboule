@@ -49,13 +49,13 @@
  
 <p  style="font-weight: bold; font-size: large"> :mortar_board: Currently learning </p>
  
-![My Skills](https://skillicons.dev/icons?i=unity,unreal,rust)
+![My Skills](https://skillicons.dev/icons?i=rust,qt)
 <br>
 <br>
 
 <p  style="font-weight: bold; font-size: large"> :video_game: Game Development </p>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,godot)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,godot,unity)
 <br>
 <br>
 
@@ -83,11 +83,11 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=IndieStudio)](https://github.com/NicolasReboule/IndieStudio)
+[![Readme Card](https://gh-grs.alwyn974.re/api/pin/?username=nicolasreboule&repo=ModelViewer)](https://github.com/NicolasReboule/ModelViewer)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=Arcade)](https://github.com/NicolasReboule/Arcade)
+[![Readme Card](https://gh-grs.alwyn974.re/api/pin/?username=nicolasreboule&repo=R-Type)](https://github.com/NicolasReboule/R-Type)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasReboule&repo=Experimentation-RustInvaders)](https://github.com/NicolasReboule/Experimentation-RustInvaders)
+[![Readme Card](https://gh-grs.alwyn974.re/api/pin/?username=nicolasreboule&repo=IOT_ESP8266 )](https://github.com/NicolasReboule/IOT_ESP8266)
 
 </div>
 </details>
@@ -128,15 +128,18 @@
 
 <div align="center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasReboule&theme=dark&langs_count=5)
+![Top Langs](https://gh-grs.alwyn974.re/api/top-langs/?username=nicolasreboule&langs_count=5&theme=dark)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasReboule&show_icons=true&count_private=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NicolasReboule&theme=dark)
+![Anurag's GitHub stats](https://gh-grs.alwyn974.re/api?username=nicolasreboule&show_icons=true&count_private=true&theme=dark)
+
+<br>
+
+![GitHub Streak](https://gh-streaks.alwyn974.re/?user=nicolasreboule&theme=dark)
 <div>
 
-<img style="height:300px" src="https://github-profile-trophy.vercel.app/?username=NicolasReboule&theme=onestar&no-frame=true" alt="NicolasReboule" />
+<img style="height:300px" src="https://gh-gpt.alwyn974.re/?username=nicolasreboule&theme=onestar&no-frame=true" alt="NicolasReboule" />
 
 </details>
 
