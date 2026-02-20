@@ -10,9 +10,9 @@
 <br>
 <div style="font-size: large">
 
-- :fr: I'm a french student from Reunion Island 
-- :mortar_board: 5th year student at Epitech
-- :snake: Member of Epitech's Cobras to teach others my passion of programming
+- :fr: I'm a french developer from Reunion Island 
+- :mortar_board: Alumni at Epitech, class 2025
+- :snake: Former member of Epitech's Cobras where I taught others my passion of programming
 - :video_game: Love video games and programming
 - :runner: Also love sports especially judo
  
