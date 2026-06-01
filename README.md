@@ -72,7 +72,7 @@ I am currently looking for a software developer position, ideally focused on emb
 <br>
 <br>
 
-<p  style="font-weight: bold; font-size: large"> :video_game: Game Development </p>
+<p  style="font-weight: bold; font-size: large"> :technologist: Software Development </p>
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,rust,godot,c)
 <br>
