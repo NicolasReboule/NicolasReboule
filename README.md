@@ -1,22 +1,41 @@
 <div align="center"> 
 
-![MasterHead](./Banner.gif)
+<!-- ![MasterHead](./Banner.gif) -->
+
 </div>
 
----
+<!-- --- -->
  
 <details open>
 <summary style="font-weight: bold; font-size: x-large;"> :man: About me </summary>
 <br>
 <div style="font-size: large">
 
-- :fr: I'm a french developer from Reunion Island 
-- :mortar_board: Alumni at Epitech, class 2025
-- :snake: Former member of Epitech's Cobras where I taught others my passion of programming
+- :fr: I'm a french dev from Reunion Island 
+- :mortar_board: 5th year Alumni at Epitech
+- :snake: Former member of Epitech's Cobras to teach others my passion of programming
 - :video_game: Love video games and programming
 - :runner: Also love sports especially judo
  
 </div>
+
+</details>
+
+
+<details open>
+<summary style="font-weight: bold; font-size: x-large;"> :mag_right: Detailed about me </summary>
+<br>
+<div style="font-size: large">
+
+Junior software engineer passionate about low-level programming, 3D rendering, and embedded systems. Graduated from Epitech in 2025 with a specialization in Software Engineering and a year abroad at Keimyung University in South Korea.
+ 
+I have built solid experience in C++ and Rust through academic and professional projects, particularly in XR development, real-time systems, and IoT.
+ 
+I am currently looking for a software developer position, ideally focused on embedded systems, low-level programming, or 3D, in France or abroad.
+ 
+</div>
+
+
 </details>
 
 ---
@@ -49,13 +68,13 @@
  
 <p  style="font-weight: bold; font-size: large"> :mortar_board: Currently learning </p>
  
-![My Skills](https://skillicons.dev/icons?i=rust,qt)
+![My Skills](https://skillicons.dev/icons?i=qt,redis)
 <br>
 <br>
 
 <p  style="font-weight: bold; font-size: large"> :video_game: Game Development </p>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,godot,unity)
+![My Skills](https://skillicons.dev/icons?i=cpp,rust,godot,c)
 <br>
 <br>
 
@@ -68,7 +87,7 @@
 
 <p  style="font-weight: bold; font-size: large"> :ok_hand: Others </p>
 
-![My Skills](https://skillicons.dev/icons?i=git,haskell,blender,python,cmake)
+![My Skills](https://skillicons.dev/icons?i=git,cmake,python,unity,haskell)
 <br>
 <br>
 </div>
@@ -89,10 +108,13 @@
  
 [![Readme Card](https://gh-grs.alwyn974.re/api/pin/?username=nicolasreboule&repo=IOT_ESP8266 )](https://github.com/NicolasReboule/IOT_ESP8266)
 
+
+[![Readme Card](https://gh-grs.alwyn974.re/api/pin/?username=nicolasreboule&repo=Arcade )](https://github.com/NicolasReboule/Arcade)
+
 </div>
 </details>
 
----
+
 
 <details open>
  <summary> :trophy: Awards and distinctions </summary>
@@ -101,6 +123,8 @@
   - 🏅 Gameplay award : Volcano Game Jam 2022 [(see on itch.io)](https://reboulenicolas.itch.io/sans-nom-le-chevalier)
  
  </details>
+
+<!-- ---
 
 ---
 
@@ -120,9 +144,9 @@
 </div>
 </details>
 
----
+--- -->
 
-<details open>
+<!-- <details open>
 <summary style="font-weight: bold; font-size: x-large"> :chart_with_upwards_trend: Stats </summary>
 <br>
 
@@ -143,4 +167,4 @@
 
 </details>
 
----
+--- -->
