@@ -68,7 +68,7 @@ I am currently looking for a software developer position, ideally focused on emb
  
 <p  style="font-weight: bold; font-size: large"> :mortar_board: Currently learning </p>
  
-![My Skills](https://skillicons.dev/icons?i=qt,redis)
+![My Skills](https://skillicons.dev/icons?i=qt,redis,zig)
 <br>
 <br>
 
