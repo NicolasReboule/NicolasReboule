@@ -146,7 +146,7 @@ I am currently looking for a software developer position, ideally focused on emb
 
 --- -->
 
-<!-- <details open>
+<details open>
 <summary style="font-weight: bold; font-size: x-large"> :chart_with_upwards_trend: Stats </summary>
 <br>
 
@@ -167,4 +167,4 @@ I am currently looking for a software developer position, ideally focused on emb
 
 </details>
 
---- -->
+---
