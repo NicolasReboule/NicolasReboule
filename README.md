@@ -12,7 +12,7 @@
 <div style="font-size: large">
 
 - :fr: I'm a french dev from Reunion Island 
-- :mortar_board: 5th year Alumni at Epitech
+- :mortar_board: Alumni at Epitech, 2025 class
 - :snake: Former member of Epitech's Cobras to teach others my passion of programming
 - :video_game: Love video games and programming
 - :runner: Also love sports especially judo
